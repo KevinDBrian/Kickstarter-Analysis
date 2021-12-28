@@ -48,6 +48,10 @@ This graph was the product.
 
 ![](Resources/Outcomes_vs_Goals.png)
 
+This table has been added after the fact due to poor representation of the data in the graph.
+
+![](Resources/Outcomes_vs_Goals_Table.png)
+
 ### Challenges and Difficulties Encountered
 There were a handful of challenege that required a few extra steps/more effort to overcome. 
 *	Some relevent data needed to be converted/altered into readable formats. For example the raw data for dates were in unix timestamps, which requried converting. I did 		this using this formula `=(((J2/60)/60)/24)+DATE(1970,1,1)` which converts the unix timstamp, `J2`, to the mm/dd/yyyy format. 
