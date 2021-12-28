@@ -66,7 +66,8 @@ Conclusions from the theater outcomes when focusing on when to launch the campai
 	*	Late April to early May would be the best time to launch any theater related Kickstarters.
 *	The data shows that the chance of success steadily decreases through the rest of the year with December being the worst time to launch a campaign
 	*	Ideally, the latest to begin a theater-based Kickstarter campaign would be July.
-	Based on these findings, the time of year to ensure the greatest chance of success would be early to mid-summer. 
+	
+Based on these findings, the time of year to ensure the greatest chance of success would be early to mid-summer. 
 	
 ### Outcomes Based on Goals
 
