@@ -48,7 +48,7 @@ This graph was the product.
 
 ![](Resources/Outcomes_vs_Goals.png)
 
-This table has been added after the fact due to poor representation of the data in the graph.
+This table has been added after the fact due to poor representation of the data in the graph (See Limitations section).
 
 ![](Resources/Outcomes_vs_Goals_Table.png)
 
